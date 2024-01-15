@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript/Tyscript , ReactJs/NextJs**
 
-- 📫 How to reach me **farhani.dev@gmail.com**
+- 📫 How to reach me on: **farhani.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
