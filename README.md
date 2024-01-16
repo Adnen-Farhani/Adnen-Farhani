@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnen Farhani</h1>
 <p align="left">Experienced Frontend Developer, focused on the JavaScript and TypeScript ecosystem. Confirmed track record in creating responsive and innovative web applications. Passionate about clean and maintainable code, always on the lookout for the latest trends in Frontend development.</p>
 
-- 🔭 I’m currently working on **Building and maintaining micro-frontend Projects based on ReactJs and Next js**
+- 🔭 I’m currently working on **Building and maintaining some micro-frontend Projects based on ReactJs and Next js**
 
 - 🌱 I’m currently learning and diving more into **NextJs , NodeJs , GraphQL , AWS services , ElasticSearch**
 
